@@ -23,6 +23,7 @@ AUTH_MICROSOFT_ENTRA_ID_TENANT_ID=yourValue
 npm run dev
 ```
 
+Note: Refer to the .env.example file for all required environment variables to ensure the project runs smoothly.
 For more questions and clarifications, write a comment on YouTube.
 
 Happy coding!
