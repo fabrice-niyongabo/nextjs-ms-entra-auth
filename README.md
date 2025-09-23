@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 1. First, install all dependencies:
 ```bash
-npm npm install
+npm install
 ```
 
 2. Create an auth secret by running the following command (this command will create a .env.local file in your root project):
